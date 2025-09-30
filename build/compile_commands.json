@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/jacky/apriltag_ws/build/datmo-master",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/jacky/apriltag_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2      -std=c++14 -o CMakeFiles/datmo.dir/src/main.cpp.o -c /home/jacky/apriltag_ws/src/datmo-master/src/main.cpp",
+  "file": "/home/jacky/apriltag_ws/src/datmo-master/src/main.cpp"
+},
+{
+  "directory": "/home/jacky/apriltag_ws/build/datmo-master",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/jacky/apriltag_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2      -std=c++14 -o CMakeFiles/datmo.dir/src/l_shape_tracker.cpp.o -c /home/jacky/apriltag_ws/src/datmo-master/src/l_shape_tracker.cpp",
+  "file": "/home/jacky/apriltag_ws/src/datmo-master/src/l_shape_tracker.cpp"
+},
+{
+  "directory": "/home/jacky/apriltag_ws/build/datmo-master",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/jacky/apriltag_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2      -std=c++14 -o CMakeFiles/datmo.dir/src/kalman-cpp/kalman.cpp.o -c /home/jacky/apriltag_ws/src/datmo-master/src/kalman-cpp/kalman.cpp",
+  "file": "/home/jacky/apriltag_ws/src/datmo-master/src/kalman-cpp/kalman.cpp"
+},
+{
+  "directory": "/home/jacky/apriltag_ws/build/datmo-master",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/jacky/apriltag_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2      -std=c++14 -o CMakeFiles/datmo.dir/src/datmo.cpp.o -c /home/jacky/apriltag_ws/src/datmo-master/src/datmo.cpp",
+  "file": "/home/jacky/apriltag_ws/src/datmo-master/src/datmo.cpp"
+},
+{
+  "directory": "/home/jacky/apriltag_ws/build/datmo-master",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/jacky/apriltag_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2      -std=c++14 -o CMakeFiles/datmo.dir/src/cluster.cpp.o -c /home/jacky/apriltag_ws/src/datmo-master/src/cluster.cpp",
+  "file": "/home/jacky/apriltag_ws/src/datmo-master/src/cluster.cpp"
+},
+{
+  "directory": "/home/jacky/apriltag_ws/build/datmo-master",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/jacky/apriltag_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/ni -isystem /usr/include/openni2      -std=c++14 -o CMakeFiles/lidar_processor.dir/src/lidar_processor.cpp.o -c /home/jacky/apriltag_ws/src/datmo-master/src/lidar_processor.cpp",
+  "file": "/home/jacky/apriltag_ws/src/datmo-master/src/lidar_processor.cpp"
+}
+]
