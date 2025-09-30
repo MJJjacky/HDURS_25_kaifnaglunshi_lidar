@@ -251,13 +251,13 @@ rosnode info /apriltag_detector
 
 ## 开发团队
 
-- 维护者: jacky
+- 维护者: MJJjacky
 - 开发环境: Ubuntu 20.04 + ROS Noetic
 - 项目类型: 机器人竞赛项目
 
 ## 许可证
 
-本项目采用TODO许可证，具体条款请参考LICENSE文件。
+
 
 ## 更新日志
 
